@@ -1,0 +1,1 @@
+node_modules/\n.next/\nbuild/\n.env*.local\n.DS_Store\n*.pem\n.vscode/\n.idea/\n*.swp\n.pnp\n
